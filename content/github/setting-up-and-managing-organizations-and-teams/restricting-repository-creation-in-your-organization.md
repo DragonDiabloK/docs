@@ -29,4 +29,4 @@ Organization owners can always create any type of repository.
 {% data reusables.organizations.member-privileges %}
 5. Under "Repository creation", select one or more options.
   ![Repository creation options](/assets/images/help/organizations/repo-creation-perms-radio-buttons.png)
-6. Click **Save**.
+6. Click **free**.
